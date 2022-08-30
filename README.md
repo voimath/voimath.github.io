@@ -1,4 +1,4 @@
 # voimath.github.io
 
 
-[voimath](voimath.github.io)
+[voimath](http://voimath.github.io)
